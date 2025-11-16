@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Jeffrey Corpuz",
+    "label": "Senior Staff Engineer (Platform & Infrastructure)",
+    "email": "jeff.corpuz@protonmail.com",
+    "website": "https://jeffcorpuz.github.io",
+    "summary": "Senior Staff Engineer with 10+ years architecting and scaling high-performance distributed systems across robotics, fintech, media. Proven leader building cloud-native platforms that power ML workloads, developer velocity, and global availability. Expert in Kubernetes, Terraform, observability, CI/CD, and platform automation—focused on enabling teams to iterate and deploy resiliently at scale.",
+    "profiles": [
+      { "network": "GitHub", "username": "jeffcorpuz", "url": "https://github.com/jeffcorpuz" },
+      { "network": "LinkedIn", "username": "pr0cf3jj", "url": "https://www.linkedin.com/in/pr0cf3jj/" }
+    ]
+  },
+  "locations": ["Remote", "United States"],
+  "work": [
+    {
+      "company": "Agility Robotics",
+      "position": "Senior Staff Engineer – Team Lead Manager",
+      "start": "2024-06",
+      "end": null,
+      "location": "Remote / US",
+      "highlights": [
+        "Co-led design and rollout of secure, scalable infrastructure for humanoid robotics meeting SOC 2 & GDPR compliance enabling advanced AI capabilities across edge and cloud systems.",
+        "Evolved initial Kubernetes platform into mature global foundation enabling rapid development and future multi-region deployments.",
+        "Architected global active-active cell-based infrastructure across multiple AWS regions delivering high availability, tenant isolation, and intelligent routing for fleet management.",
+        "Managed and mentored high-performing platform team driving cloud architecture, developer tooling, and security best practices to support R&D velocity.",
+        "Led creation of TDDs, ADRs, and RFCs for core initiatives driving alignment via collaborative reviews and prototypes.",
+        "Reduced on-call burden 50% through automated remediation pipelines, actionable runbooks, proactive alert signal audits.",
+        "Unified observability with OpenTelemetry, Datadog, Slack-integrated PagerDuty alerts reducing MTTR 40% and enabling distributed tracing & SLO visibility.",
+        "Founded and scaled ML Ops infrastructure delivering reproducible compute environments, interactive notebooks, scalable model serving using Kubernetes, Kubeflow, SageMaker."
+      ]
+    },
+    {
+      "company": "Agility Robotics",
+      "position": "Staff Engineer – Platform",
+      "start": "2023-06",
+      "end": "2024-06",
+      "location": "Remote / US",
+      "highlights": [
+        "Designed and built multi-cloud (AWS/GCP) self-service Kubernetes platform using ArgoCD, Helm, Terraform supporting fleet & ML workloads with >99.99% uptime.",
+        "Engineered HA and failure-resilient patterns across clusters for latency-sensitive robotic telemetry, distributed ML pipelines, real-time processing.",
+        "Translated complex robotics & ML infra requirements into scalable platform designs accelerating delivery and shaping roadmap.",
+        "Developed Go-based Kubernetes operators & automation tools enabling declarative self-service workflows reducing operational overhead.",
+        "Established internal developer platform (golden paths, guardrails) reducing onboarding time 60% and increasing velocity.",
+        "Built core CI/CD pipelines, canary workflows, ephemeral test envs forming foundation for safe rapid deployments.",
+        "Led CI/CD & GitOps architecture using ArgoCD enabling reliable reproducible builds & deployments org-wide."
+      ]
+    },
+    {
+      "company": "Planet Howl",
+      "position": "Lead Platform Engineer",
+      "start": "2022-07",
+      "end": "2023-06",
+      "location": "Remote",
+      "highlights": [
+        "Led migration from AWS ECS to EKS improving orchestration flexibility and scaling for platform services."
+      ]
+    },
+    {
+      "company": "Alloy",
+      "position": "Senior Site Reliability Engineer",
+      "start": "2020-10",
+      "end": "2022-07",
+      "location": "Remote",
+      "highlights": [
+        "Migrated global platform from AWS OpsWorks to Kubernetes improving reliability and compliance posture."
+      ]
+    },
+    {
+      "company": "Fearless",
+      "position": "Senior Site Reliability Engineer",
+      "start": "2020-01",
+      "end": "2020-10",
+      "location": "Remote",
+      "highlights": [
+        "Designed and implemented scalable, resilient cloud-native solutions for government applications."
+      ]
+    },
+    {
+      "company": "Reaction Commerce (acquired by MailChimp)",
+      "position": "DevOps Engineer",
+      "start": "2018-06",
+      "end": "2019-09",
+      "location": "Remote",
+      "highlights": [
+        "Founding DevOps engineer building initial cloud infrastructure and establishing core DevOps practices."
+      ]
+    },
+    {
+      "company": "Group Nine Media",
+      "position": "Software Engineer",
+      "start": "2017-01",
+      "end": "2018-01",
+      "location": "Remote",
+      "highlights": [
+        "Developed and maintained cloud infrastructure & internal tooling optimizing deployment and operational efficiency."
+      ]
+    },
+    {
+      "company": "Home Box Office, Inc (HBO)",
+      "position": "Lead Software Engineer",
+      "start": "2013-05",
+      "end": "2017-01",
+      "location": "New York, NY",
+      "highlights": [
+        "Led team building critical backend systems for streaming video across Android and Xbox platforms."
+      ]
+    }
+  ],
+  "projects": [],
+  "skills": [
+    {
+      "group": "Development",
+      "items": ["Python", "Go", "JavaScript", "TypeScript", "Postgres", "Redis", "Snowflake", "Kafka", "Airflow", "HiveMQ", "DataDog", "Fluentbit", "Elasticsearch", "Prometheus", "Jaeger", "Grafana", "OpenTelemetry", "React", "Flask", "Spring", "RabbitMQ", "Jupyter", "MLFlow"]
+    },
+    {
+      "group": "Cloud & Infra",
+      "items": ["AWS", "GCP", "EKS", "GKE", "Terraform", "Crossplane", "Kubernetes", "Helm", "Istio", "ArgoCD", "Knative", "Ansible", "Packer", "Okta", "Vault", "Linux", "GitHub Actions", "CircleCI", "Bazel", "Calico", "PagerDuty", "Temporal", "Argo Workflows", "Karpenter", "ClusterAutoscaler"]
+    },
+    {
+      "group": "Data & Streaming",
+      "items": ["Kafka", "Spark", "Athena", "NATS", "HiveMQ"]
+    },
+    {
+      "group": "Observability & Security",
+      "items": ["OpenTelemetry", "Datadog", "Prometheus", "Grafana", "Jaeger", "Loki", "Snyk"]
+    },
+    {
+      "group": "Platform Tooling",
+      "items": ["CI/CD", "GitOps", "Golden Paths", "Canary Deployments", "Ephemeral Environments"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "New York University",
+      "area": "Electrical Engineering and Computer Engineering",
+      "studyType": "BS",
+      "start": "(start year not provided)",
+      "end": "(end year not provided)"
+    }
+  ],
+  "certifications": [
+    "Certified Kubernetes Application Developer",
+    "Certified Kubernetes Administrator"
+  ]
+}
